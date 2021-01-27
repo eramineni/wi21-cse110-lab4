@@ -57,7 +57,7 @@
 
 20. part1-question20.js
 
-21. Output should be: 
+21. Output should be: <br>
     1 <br>
     4 <br>
     3 <br>
