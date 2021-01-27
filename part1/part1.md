@@ -49,4 +49,8 @@
 
 16. == Performs type conversions and then checks equality. It is a non-strict check. Meanwhile, === is a strict equality check, and does not perform type conversions. 
 
-17. 
+17. 'How are you' is printed because the first statement is false and the next statement is true. In the first statement, true gets converted to an int, and it is equal to 1 which is not equal to 2. The second branch of the conditionals is true because 2 is converted to a boolean. It is converted to true because it represents or signifies a non-empty value.
+
+18. In JS file titled part1-question18.js
+
+19. 
