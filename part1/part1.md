@@ -16,9 +16,9 @@
 
 9. At line 11, an error will be thrown because i is a let, and it is declared inside a code block which is the for loop. Thus, it is not defined outside the code block in places like line 11 where it is trying to print it out.
 
-10. At line 12, nothing will be printed, and an error will have been thrown prior in the for loop. This is because discountedPrice is a variable of type const that is being reassigned values after each iteration of the for loop. However, this is not allowed because the value of a const is not allowed to be changed. 
+10. At line 12, nothing will be printed, and an error will have been thrown because discountedPrice is a variable of type const that is being reassigned values after each iteration of the for loop. However, this is not allowed because the value of a const is not allowed to be changed. 
 
-11. At line 13, nothing will be printed, and an error will have been thrown prior in the for loop. This is because finalPrice is a variable of type const that is being reassigned values after each iteration of the for loop. However, this is not allowed because the value of a const is not allowed to be changed. 
+11. At line 13, nothing will be printed, and an error will have been thrown because finalPrice is a variable of type const that is being reassigned values after each iteration of the for loop. However, this is not allowed because the value of a const is not allowed to be changed. 
 
 12. Nothing will be returned because an error will have been thrown an uncaught typeerror prior which is the assignment to a constant variable. This is not allowed as the values of consts are not allowed to be changed. 
 
@@ -57,4 +57,8 @@
 
 20. part1-question20.js
 
-21. 
+21. Output should be: 
+    1
+    4
+    3
+    2
