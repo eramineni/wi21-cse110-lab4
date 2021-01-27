@@ -58,7 +58,7 @@
 20. part1-question20.js
 
 21. Output should be: 
-    1
-    4
-    3
+    1 <br>
+    4 <br>
+    3 <br>
     2
