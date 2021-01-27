@@ -53,4 +53,8 @@
 
 18. In JS file titled part1-question18.js
 
-19. 
+19. [6, 8, 10] is returned. A new array named newArr will be initialized. Next, the input array which is [1, 2, 3] is traversed, and within the body of the for loop, doSomething, which is the callback function, is called. This function takes in 1 and defines a function that returns two times a value x. The function doSomething takes in the 1 and returns 2*(1+2) which equals 6. 6 is then pushed into newArr. This process repeats for the following two values in the input array to modifyArray. These are 2 and 3. For two, callback is called and it returns 2(2+2) = 8, and this is pushed into the array. The final value that is operated on is 3, and the function performs 2(3+2) which is 10, and this value is pushed into the array. The for loop terminates, and newArr which equals [6, 8, 10] is returned.
+
+20. part1-question20.js
+
+21. 
