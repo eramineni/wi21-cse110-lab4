@@ -11,4 +11,4 @@ Part 2 of Part 3
 6. Apache
 7. Tue, 26 Jan 2021 22:14:13 GMT
 8. application/json
-9. onclick()
+9. fetchData()
